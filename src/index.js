@@ -1,4 +1,4 @@
-import { css } from 'styled-components';
+import { css } from 'emotion';
 import { pxToEm, pxToRem } from './convertors';
 
 export {
